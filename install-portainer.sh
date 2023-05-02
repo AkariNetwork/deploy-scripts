@@ -1,4 +1,4 @@
-# portainer安装脚本
+# portainer with docker standalone安装脚本
 # 来自https://docs.portainer.io/start/install-ce/server/docker/linux
 # Akari Network
 
