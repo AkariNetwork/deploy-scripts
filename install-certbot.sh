@@ -3,7 +3,7 @@
 # Akari Network
 
 apt update
-apt install snapd
+apt install snapd -y
 snap install core
 snap refresh core
 snap install --classic certbot
